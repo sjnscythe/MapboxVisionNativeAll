@@ -1,0 +1,16 @@
+PODS:
+  - MapboxVisionNativeAll (0.1.0)
+
+DEPENDENCIES:
+  - MapboxVisionNativeAll (from `../`)
+
+EXTERNAL SOURCES:
+  MapboxVisionNativeAll:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MapboxVisionNativeAll: a7895309daa79743e887cbd5f29e39992270f7e1
+
+PODFILE CHECKSUM: 6d25534530388ef329f519d4065809242adfa53b
+
+COCOAPODS: 1.12.1
